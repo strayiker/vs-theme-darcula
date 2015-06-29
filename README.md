@@ -1,3 +1,2 @@
 # vs-theme-darcula
-visual studio color theme
-
+VisualStudio full color theme based on IntelliJ IDEA Darcula.
