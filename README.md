@@ -9,8 +9,8 @@ Through the VS [plugin](https://visualstudiogallery.msdn.microsoft.com/6f4b51b6-
 ![new project](https://raw.githubusercontent.com/strayiker/vs-theme-darcula/master/screenshots/new-project.png)
 ![menu](https://raw.githubusercontent.com/strayiker/vs-theme-darcula/master/screenshots/menu.png)
 
-#C#
-![c#](https://raw.githubusercontent.com/strayiker/vs-theme-darcula/master/screenshots/c#.png)
+#CSharp
+![CSharp](https://raw.githubusercontent.com/strayiker/vs-theme-darcula/master/screenshots/csharp.png)
 #CSHTML
 ![cshtml](https://raw.githubusercontent.com/strayiker/vs-theme-darcula/master/screenshots/cshtml.png)
 #XML
