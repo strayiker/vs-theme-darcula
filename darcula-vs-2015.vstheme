@@ -8917,7 +8917,7 @@
       </Color>
       <Color Name="Preprocessor Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9B9B9B" />
+        <Foreground Type="CT_RAW" Source="FFBBB529" />
       </Color>
       <Color Name="Function">
         <Background Type="CT_INVALID" Source="00000000" />
