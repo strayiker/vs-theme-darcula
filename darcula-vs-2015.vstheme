@@ -1325,11 +1325,11 @@
       </Color>
       <Color Name="CppOperatorSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF008B8B" />
+        <Foreground Type="CT_RAW" Source="FFA9B7C6" />
       </Color>
       <Color Name="CppMemberOperatorSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF008B8B" />
+        <Foreground Type="CT_RAW" Source="FFA9B7C6" />
       </Color>
       <Color Name="CppSuggestedActionFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1989,7 +1989,7 @@
       </Color>
       <Color Name="ReSharper Operator Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF008B8B" />
+        <Foreground Type="CT_RAW" Source="FFA9B7C6" />
       </Color>
       <Color Name="ReSharper Namespace Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2309,7 +2309,7 @@
       </Color>
       <Color Name="ReSharper C++ Overloaded Operator Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF008B8B" />
+        <Foreground Type="CT_RAW" Source="FFA9B7C6" />
       </Color>
       <Color Name="ReSharper C++ Template Parameter Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2409,7 +2409,7 @@
       </Color>
       <Color Name="Python operator">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF008B8B" />
+        <Foreground Type="CT_RAW" Source="FFA9B7C6" />
       </Color>
       <Color Name="Python grouping">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2833,6 +2833,74 @@
       <Color Name="TabMouseOver">
         <Background Type="CT_RAW" Source="FF3F3F46" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
+    </Category>
+    <Category Name="CosmosClientTools.2.0.3000.0" GUID="{dfe06200-08ed-4943-884c-5e313ea805e1}">
+      <Color Name="JobGraphBoder">
+        <Background Type="CT_RAW" Source="FF3C3F41" />
+      </Color>
+      <Color Name="JobGraphFont">
+        <Background Type="CT_RAW" Source="FFBBBBBB" />
+      </Color>
+      <Color Name="JobGraphSucceed">
+        <Background Type="CT_RAW" Source="FF7AC14E" />
+      </Color>
+      <Color Name="JobGraphRunning">
+        <Background Type="CT_RAW" Source="FF6FCCDD" />
+      </Color>
+      <Color Name="JobGraphFailed">
+        <Background Type="CT_RAW" Source="FFEE2F3C" />
+      </Color>
+      <Color Name="JobGraphWait">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="JobGraphLabel">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="JobGraphData">
+        <Background Type="CT_RAW" Source="FF26A9E0" />
+      </Color>
+      <Color Name="StageInfoTabItemSelectedHeader">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="StageInfoTabItemHeader">
+        <Background Type="CT_RAW" Source="FF464A4D" />
+      </Color>
+      <Color Name="JobGraphBottom">
+        <Background Type="CT_RAW" Source="FF000000" />
+      </Color>
+      <Color Name="JobViewHeaderBorder">
+        <Background Type="CT_RAW" Source="FF343638" />
+      </Color>
+      <Color Name="JobViewHeader">
+        <Background Type="CT_RAW" Source="FF464A4D" />
+      </Color>
+      <Color Name="ThemeIDColorKey">
+        <Background Type="CT_RAW" Source="FFBBBBBB" />
+      </Color>
+      <Color Name="JobGraphWarning">
+        <Background Type="CT_RAW" Source="FFF39800" />
+      </Color>
+      <Color Name="JobViewDiagnoseHeader">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="JobViewDiagnoseHeaderBorder">
+        <Background Type="CT_RAW" Source="FF2D2D2D" />
+      </Color>
+      <Color Name="StreamPreviewCompositeData">
+        <Foreground Type="CT_RAW" Source="FF2691E0" />
+      </Color>
+      <Color Name="JobGraphCollapseFrame">
+        <Background Type="CT_RAW" Source="FF9F9F9F" />
+      </Color>
+      <Color Name="JobGraphStreamFrame">
+        <Background Type="CT_RAW" Source="FF8D8D8D" />
+      </Color>
+      <Color Name="JobGraphStageFrame">
+        <Background Type="CT_RAW" Source="FF555555" />
+      </Color>
+      <Color Name="JobGraphBorder">
+        <Background Type="CT_RAW" Source="FF6C6C6C" />
       </Color>
     </Category>
     <Category Name="Data Source Designer" GUID="{3ffb3681-9b54-42b2-81d5-52453adf56a6}">
@@ -10159,74 +10227,6 @@
       <Color Name="Artboard Background">
         <Background Type="CT_RAW" Source="FF2D2F31" />
         <Foreground Type="CT_RAW" Source="FF292B2D" />
-      </Color>
-    </Category>
-    <Category Name="CosmosClientTools.2.0.3000.0" GUID="{dfe06200-08ed-4943-884c-5e313ea805e1}">
-      <Color Name="JobGraphBoder">
-        <Background Type="CT_RAW" Source="FF3C3F41" />
-      </Color>
-      <Color Name="JobGraphFont">
-        <Background Type="CT_RAW" Source="FFBBBBBB" />
-      </Color>
-      <Color Name="JobGraphSucceed">
-        <Background Type="CT_RAW" Source="FF7AC14E" />
-      </Color>
-      <Color Name="JobGraphRunning">
-        <Background Type="CT_RAW" Source="FF6FCCDD" />
-      </Color>
-      <Color Name="JobGraphFailed">
-        <Background Type="CT_RAW" Source="FFEE2F3C" />
-      </Color>
-      <Color Name="JobGraphWait">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
-      </Color>
-      <Color Name="JobGraphLabel">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
-      </Color>
-      <Color Name="JobGraphData">
-        <Background Type="CT_RAW" Source="FF26A9E0" />
-      </Color>
-      <Color Name="StageInfoTabItemSelectedHeader">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
-      </Color>
-      <Color Name="StageInfoTabItemHeader">
-        <Background Type="CT_RAW" Source="FF464A4D" />
-      </Color>
-      <Color Name="JobGraphBottom">
-        <Background Type="CT_RAW" Source="FF000000" />
-      </Color>
-      <Color Name="JobViewHeaderBorder">
-        <Background Type="CT_RAW" Source="FF343638" />
-      </Color>
-      <Color Name="JobViewHeader">
-        <Background Type="CT_RAW" Source="FF464A4D" />
-      </Color>
-      <Color Name="ThemeIDColorKey">
-        <Background Type="CT_RAW" Source="FFBBBBBB" />
-      </Color>
-      <Color Name="JobGraphWarning">
-        <Background Type="CT_RAW" Source="FFF39800" />
-      </Color>
-      <Color Name="JobViewDiagnoseHeader">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
-      </Color>
-      <Color Name="JobViewDiagnoseHeaderBorder">
-        <Background Type="CT_RAW" Source="FF2D2D2D" />
-      </Color>
-      <Color Name="StreamPreviewCompositeData">
-        <Foreground Type="CT_RAW" Source="FF2691E0" />
-      </Color>
-      <Color Name="JobGraphCollapseFrame">
-        <Background Type="CT_RAW" Source="FF9F9F9F" />
-      </Color>
-      <Color Name="JobGraphStreamFrame">
-        <Background Type="CT_RAW" Source="FF8D8D8D" />
-      </Color>
-      <Color Name="JobGraphStageFrame">
-        <Background Type="CT_RAW" Source="FF555555" />
-      </Color>
-      <Color Name="JobGraphBorder">
-        <Background Type="CT_RAW" Source="FF6C6C6C" />
       </Color>
     </Category>
   </Theme>
